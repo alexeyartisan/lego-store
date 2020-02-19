@@ -1,0 +1,22 @@
+{
+    "name": "aleksey/bricksunity.loc",
+    "authors": [
+        {
+            "name": "a-stetsyura",
+            "email": "a.y.stetsyura@gmail.com"
+        }
+    ],
+    "require": {
+        "mailgun/mailgun-php": "^2.8",
+        "php-http/guzzle6-adapter": "^1.1",
+        "php-http/message": "^1.7"
+    },
+    "autoload": {
+        "psr-4": {
+			"App\\": "app",
+			"Admin\\": "admin",
+            "Engine\\": "engine",
+            "Engine\\DI\\": "engine/DI/"
+        }
+    }
+}

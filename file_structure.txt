@@ -1,0 +1,11 @@
+\content\uploads
+\content\uploads\categories\big
+\content\uploads\categories\small
+\content\uploads\categories\thumb
+\content\uploads\categories\logo
+\content\uploads\products\original
+\content\uploads\products\thumb
+\content\uploads\news
+\content\uploads\news\cover\original
+\content\uploads\news\cover\thumb
+\content\uploads\slider
